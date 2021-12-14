@@ -16,7 +16,7 @@ Hud for DarkRP!
 - All the information you need and nothing more
 - EasyHUD!
 
-## Where can I download?
+## Where I can download?
 | Service | Link |
 | ------ | ------ |
 | Google Drive | https://drive.google.com/file/d/1UWkj-Hxjk0MjrbGk2LaNDlXdd9UMc0tc/view?usp=sharing |
