@@ -20,4 +20,4 @@ Hud for DarkRP!
 | Service | Link |
 | ------ | ------ |
 | Google Drive | https://drive.google.com/file/d/1UWkj-Hxjk0MjrbGk2LaNDlXdd9UMc0tc/view?usp=sharing |
-| GitHub | https://drive.google.com/file/d/1UWkj-Hxjk0MjrbGk2LaNDlXdd9UMc0tc/view?usp=sharing |
+| GitHub | https://github.com/Sp0k1n0k1/easyhud |
